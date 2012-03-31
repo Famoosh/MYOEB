@@ -1,0 +1,5 @@
+##The only config used is "bottles.per.level" This determines how many bottles
+##of enchanting a player gets per level. IE, if the value is set at 5, you get
+##5 bottles of enchanting from level 1, 10 from level 2, etc
+
+bottles.per.level: 5

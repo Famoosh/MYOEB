@@ -1,0 +1,12 @@
+name: MYOEB
+version: 0.1
+main: com.titankingdoms.famoosh.myoeb.MYOEBMain
+author: Famoosh
+permissions:
+   myoeb.create:
+      description: Allows users to bottle up their experience
+      default: true
+commands:
+   bottleitup:
+      description: Bottle up your experience levels
+      
